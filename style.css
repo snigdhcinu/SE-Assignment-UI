@@ -1,0 +1,49 @@
+#hero-page{
+	color: #fff;
+	background-color: #cf7500;
+}
+#header-1{
+	padding-top: 1.5em;
+	font-family: 'Rubik', sans-serif;
+	margin-left: 10vw;
+	font-size: 2.5em;
+	width: 50%;
+}
+#header-2{
+	font-family: 'Rubik',sans-serif;
+	margin-left: 10vw;
+	width: 50%;
+	font-size: 4em;
+}
+#description{
+	font-family: 'Ubuntu', sans-serif;
+	width: 60%;
+	margin-left: 20vw;
+	margin-top: 4%;
+	font-size: 1.5em;
+}
+#buttons{
+	margin-top: 4%;
+	text-align: center;
+	margin-left:  -5%;
+	padding-bottom: 3em;
+}
+#btn-1{
+	font-size: 1.5em;
+}
+#btn-1:hover{
+	/*filter: drop-shadow(10px 10px 10px #428bca);*/
+	box-shadow: 10px 10px 50px #428bca,-10px -10px 50px #428bca,
+				10px -10px 50px #428bca,-10px 10px 50px #428bca;
+}
+#btn-2{
+	font-size: 1.5em;
+	margin-left: 6%;
+}
+.container{
+	padding-top: 3%;
+}
+.col-lg-3{
+
+	
+}
